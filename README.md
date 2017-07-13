@@ -8,3 +8,4 @@ plugin into your application follow the instructions in our integration guide:
 http://docs.scandit.com/stable/phonegap/cordova-integrate.html
 
 Questions? Contact support@scandit.com.
+"# scandit-barcodescanner-phonegap-android" 
